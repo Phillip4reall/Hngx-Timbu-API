@@ -5,7 +5,7 @@ An app that implements the timbu API. this app contains product page and product
 ## Test app on Appertizer
 https://appetize.io/app/android/com.example.timbu_api?device=pixel7&osVersion=13.0
 ## Download app
-https://drive.google.com/drive/my-drive?sjid=5269591160253085351-EU
+https://drive.google.com/file/d/1-EOLqnmUWi6uMdBJ5a-hoMG8oitcnH2f/view
 ## Step to run app
 1 git clone the app
 2 on at least, flutter version - 3.22.2
