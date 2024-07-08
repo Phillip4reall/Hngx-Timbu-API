@@ -1,6 +1,6 @@
-# timbu_api
+# HNGx Timbu_api
 
-A new Flutter project.
+An app that implements the timbu API. this app contains product page and product details
 
 ## Getting Started
 
