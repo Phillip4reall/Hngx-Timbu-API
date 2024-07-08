@@ -2,15 +2,24 @@
 
 An app that implements the timbu API. this app contains product page and product details
 
-## Getting Started
+## Test app on Appertizer
 
-This project is a starting point for a Flutter application.
+## Download app
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Step to run app
+git clone the app
+on at least, flutter version - 3.22.2
+run flutter pub get to add dependency
+visit the timbu website to create an account
+create retail business
+create and add products
+get your APPID, ORGANISATIONID and APIKEY
+in the constant.dart add your details
+organizationid = insert your details
+appid =insert your details
+apikey =insert your details
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
